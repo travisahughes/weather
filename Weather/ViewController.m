@@ -10,6 +10,7 @@
 
 @interface ViewController ()
     //This is a comment
+    //This is another comment
 
 @end
 
