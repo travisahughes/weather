@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AddZipCodeItemViewController.h
 //  Weather
 //
 //  Created by Travis Hughes on 2/14/15.
@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ZipCodeItem.h"
 
-@interface ViewController : UIViewController
+@interface AddZipCodeItemViewController : UIViewController
 
+@property ZipCodeItem *zipCodeItem;
 
 @end
-
